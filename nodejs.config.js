@@ -1,7 +1,7 @@
 settings = {
   scheme: 'http',
   port: process.env.PORT || 5000,
-  host: 'polar-fortress-3494.herokuapp.com,
+  host: 'polar-fortress-3494.herokuapp.com',
   resource: '/socket.io',
   serviceKey: 'suite101',
   backend: {
