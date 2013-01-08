@@ -1,11 +1,11 @@
 settings = {
   scheme: 'http',
   port: process.env.PORT || 5000,
-  host: '',
+  host: 'powerful-ocean-9997.herokuapp.com',
   resource: '/socket.io',
-  serviceKey: '',
+  serviceKey: 'suite101',
   backend: {
-    host: 'YOU NEED TO CHANGE IT',
+    host: 'dev.rafetest.gotpantheon.com',
     port: 80,
     scheme: 'http',
     messagePath: '/nodejs/message'
